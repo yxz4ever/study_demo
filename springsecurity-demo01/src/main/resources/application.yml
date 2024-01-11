@@ -1,0 +1,5 @@
+config:
+  demo:
+    user:
+      name: xrluo
+      password: 123123
